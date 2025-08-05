@@ -23,6 +23,10 @@ The goal is to explore how schools are distributed across states, districts, vil
 | `Internship_Task_Kabira.ipynb` | Python notebook with data cleaning and EDA |
 | `Data/` | Contains the original or cleaned CSV dataset used |
 
+## 📥 Dataset
+[Download the full dataset here](https://www.kaggle.com/datasets/hritikakolkar/schools)
+
+
 ---
 
 ## 🗂 Dataset Columns
